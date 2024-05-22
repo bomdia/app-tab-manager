@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-    <schema id="org.gnome.shell.extensions.app_tabs" path="/org/gnome/shell/extensions/app_tabs/">
+    <schema id="org.gnome.shell.extensions.app-tab-manager" path="/org/gnome/shell/extensions/app-tab-manager/">
         <key name="ellipsize-mode" type="b">
             <default>false</default>
         </key>
